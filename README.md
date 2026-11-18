@@ -14,7 +14,7 @@
 ---
 
 ### 📌 Featured Repositories
-- * **[Password Strength & Breach-Pattern Analyzer](https://github.com/nagamithiran02/YOUR-PASSWORD-REPO-NAME)** - Modular Python & Streamlit web application for analyzing password security
+- **[Password Strength & Breach-Pattern Analyzer]([https://github.com/nagamithiran02/YOUR-PASSWORD-REPO-NAME](https://github.com/nagamithiran02/password-entropy-analyzer))** - Modular Python & Streamlit web application for analyzing password security
 
 ---
 
