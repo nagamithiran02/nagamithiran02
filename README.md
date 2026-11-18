@@ -14,8 +14,7 @@
 ---
 
 ### 📌 Featured Repositories
-- [Coursework-CPP](#) - Core algorithms and C++ exercise implementations
-- [Logic-Gate-Simulations](#) - Digital logic gate exercises and circuit design logic
+- * **[Password Strength & Breach-Pattern Analyzer](https://github.com/nagamithiran02/YOUR-PASSWORD-REPO-NAME)** - Modular Python & Streamlit web application for analyzing password security
 
 ---
 
