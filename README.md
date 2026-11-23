@@ -107,7 +107,7 @@ I am a **Bachelor of Computer Science (Computer Networks and Security)** undergr
     <td width="42%" valign="middle" align="center">
       <!-- Replace src with a real screenshot or GIF of your app in your repo -->
       <a href="https://github.com/nagamithiran02/password-entropy-analyzer">
-        <img src="https://dummyimage.com/420x230/0f172a/38bdf8.png&text=Add+App+Screenshot+or+GIF+Here" alt="Password Entropy Analyzer Preview" />
+        <img src="[https://dummyimage.com/420x230/0f172a/38bdf8.png&text=Add+App+Screenshot+or+GIF+Here" alt="Password Entropy Analyzer Preview](https://github.com/nagamithiran02/password-entropy-analyzer/blob/main/Recording%202026-11-23%20161416.gif)" />
       </a>
       <br />
       <sub><i>Replace with a screenshot or GIF from your repository</i></sub>
