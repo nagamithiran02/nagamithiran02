@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Top Hero Banner Graphic (Replace image URL with a custom banner in your repo if desired) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0284C7,100:4F46E5&height=175&section=header&text=Nagamithiran%20Ramis&fontSize=38&fontColor=F8FAFC&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20(Cybersecurity)%20%E2%80%A2%20UTM&descAlignY=60&descColor=BAE6FD" width="100%" alt="Header Banner" />
+<!-- Visual Header Cover -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:060B19,55:0369A1,100:312E81&height=180&section=header&text=Nagamithiran%20Ramis&fontSize=40&fontColor=F8FAFC&fontAlignY=40&desc=Computer%20Science%20(Cybersecurity)%20%E2%80%A2%20UTM&descAlignY=63&descColor=7DD3FC" width="100%" alt="Nagamithiran Ramis Header" />
 
 <br />
 
@@ -26,7 +26,6 @@
   <a href="#-research-interests"><b>Research</b></a> •
   <a href="#-featured-projects"><b>Projects</b></a> •
   <a href="#-github-statistics"><b>GitHub Stats</b></a> •
-  <a href="#-achievements"><b>Achievements</b></a> •
   <a href="#-contact-information"><b>Contact</b></a>
 </p>
 
@@ -40,9 +39,9 @@
 
 I am a **Bachelor of Computer Science (Computer Networks and Security)** undergraduate at **Universiti Teknologi Malaysia (UTM)**, building a strong technical foundation across programming, digital/discrete logic, and information security.
 
-* 🎓 **Academic Program:** Bachelor of Computer Science (Computer Networks and Security) at UTM
-* 💡 **Core Strengths:** Writing structured, standard-compliant code, breaking down edge cases, and turning concepts into working tools
-* 🎯 **Career Goal:** Grow into a cybersecurity and network security engineer who builds secure, reliable, and privacy-respecting systems
+- 🎓 **Academic Program:** Bachelor of Computer Science (Computer Networks and Security) at UTM
+- 💡 **Core Strengths:** Writing structured, standard-compliant code, breaking down edge cases, and turning concepts into working tools
+- 🎯 **Career Goal:** Grow into a cybersecurity and network security engineer who builds secure, reliable, and privacy-respecting systems
 
 > *"Strong security starts with clear fundamentals, clean logic, and careful attention to edge cases."*
 
@@ -71,7 +70,7 @@ I am a **Bachelor of Computer Science (Computer Networks and Security)** undergr
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,ubuntu&theme=dark" alt="Tools and OS" />
 </div>
 
-* **Academic & Technical Areas:** Data Structures, Object-Oriented Programming (OOP), Discrete Mathematics, Computer Networks & Security, Digital Logic Design
+- **Academic & Technical Areas:** Data Structures, Object-Oriented Programming (OOP), Discrete Mathematics, Computer Networks & Security, Digital Logic Design
 
 ---
 
@@ -86,8 +85,6 @@ I am a **Bachelor of Computer Science (Computer Networks and Security)** undergr
 ---
 
 ## 🚀 Featured Projects
-
-### Highlighted Repository
 
 <table>
   <tr>
@@ -112,31 +109,6 @@ I am a **Bachelor of Computer Science (Computer Networks and Security)** undergr
   </tr>
 </table>
 
-### Project Showcase Video & More Work (Placeholders)
-
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <b>🎥 Project Walkthrough / Demo Video</b><br /><br />
-      <!-- GitHub READMEs open external links when clicking a preview image -->
-      <a href="[PASTE_YOUTUBE_OR_VIDEO_LINK_HERE]">
-        <img src="https://dummyimage.com/400x210/1e1b4b/a5b4fc.png&text=%E2%96%B6+Video+Demo+Thumbnail+Placeholder" alt="Video Demo Link" />
-      </a>
-      <br /><br />
-      <sub><i>Link to a demo video or screen recording once uploaded</i></sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>📁 Additional Public Project Slot</b><br /><br />
-      <ul>
-        <li><b>Project Title:</b> <code>[Add Verified Public Repo Name]</code></li>
-        <li><b>Summary:</b> <code>[Add concise description of what the project builds]</code></li>
-        <li><b>Stack:</b> <code>[Add languages/frameworks used]</code></li>
-        <li><b>Link:</b> <code>[https://github.com/nagamithiran02/repo-name]</code></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 📊 GitHub Statistics
@@ -151,15 +123,6 @@ I am a **Bachelor of Computer Science (Computer Networks and Security)** undergr
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nagamithiran02&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" alt="GitHub Streak Card" height="170" />
 
 </div>
-
-> *Note: External SVG stat generators rely on third-party hosting; if any card ever fails to render, check its service status or replace it with a local graphic.*
-
----
-
-## 🏆 Achievements
-
-* 🏅 **`[Achievement / Milestone 1]`** — `[Add verified academic award, competition, certification, or milestone here]`
-* 🏅 **`[Achievement / Milestone 2]`** — `[Add another verified milestone or remove this line until ready]`
 
 ---
 
