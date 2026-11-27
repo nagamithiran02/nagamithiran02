@@ -1,32 +1,32 @@
 <div align="center">
 
 <!-- Visual Header Cover -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:060B19,55:0369A1,100:312E81&height=180&section=header&text=Nagamithiran%20Ramis&fontSize=40&fontColor=F8FAFC&fontAlignY=40&desc=Computer%20Science%20(Cybersecurity)%20%E2%80%A2%20UTM&descAlignY=63&descColor=7DD3FC" width="100%" alt="Nagamithiran Ramis Header" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:060B19,55:0369A1,100:312E81&height=190&section=header&text=Nagamithiran%20Ramis&fontSize=42&fontColor=F8FAFC&fontAlignY=38&desc=B.Sc.%20Computer%20Science%20(Computer%20Networks%20%26%20Security)%20%E2%80%A2%20UTM&descAlignY=64&descColor=7DD3FC" width="100%" alt="Nagamithiran Ramis Header" />
 
 <br />
 
 <!-- Animated Typing Headline -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&lines=Hello%2C+I'm+Nagamithiran+Ramis+%F0%9F%9A%80;B.Sc.+Computer+Science+(Computer+Networks+%26+Security)+%40+UTM;Crafting+Clean+Code+%26+Exploring+Cybersecurity" alt="Typing Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1150&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+Secure+Systems+%26+Clean+Software;Computer+Networks+%26+Security+%40+Universiti+Teknologi+Malaysia;From+Low-Level+Logic+to+Interactive+Security+Tools" alt="Typing Headline" />
 </a>
 
 <br /><br />
 
-<!-- Styled Identity & Focus Badges -->
+<!-- Identity & Focus Badges -->
 <img src="https://img.shields.io/badge/UTM-Computer%20Networks%20%26%20Security-0B1120?style=for-the-badge&logo=github&logoColor=38BDF8" alt="UTM" />
-<img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Software-0F172A?style=for-the-badge&logo=shield&logoColor=22D3EE" alt="Focus" />
-<img src="https://img.shields.io/badge/Environment-Linux%20%7C%20VS%20Code%20%7C%20Git-1E1B4B?style=for-the-badge&logo=linux&logoColor=A5B4FC" alt="Environment" />
+<img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Applied%20Crypto-0F172A?style=for-the-badge&logo=shield&logoColor=22D3EE" alt="Focus" />
+<img src="https://img.shields.io/badge/Workflow-Linux%20%7C%20VS%20Code%20%7C%20Git-1E1B4B?style=for-the-badge&logo=linux&logoColor=A5B4FC" alt="Workflow" />
 
 <br /><br />
 
-<!-- Quick Navigation Bar -->
+<!-- Interactive Quick Navigation Bar -->
 <p>
-  <a href="#-about-me"><b>About Me</b></a> •
+  <a href="#-about-me"><b>About</b></a> •
   <a href="#-technical-skills"><b>Skills</b></a> •
+  <a href="#-featured-projects"><b>Featured Projects</b></a> •
   <a href="#-research-interests"><b>Research</b></a> •
-  <a href="#-featured-projects"><b>Projects</b></a> •
-  <a href="#-github-statistics"><b>GitHub Stats</b></a> •
-  <a href="#-contact-information"><b>Contact</b></a>
+  <a href="#-github-statistics"><b>Activity & Stats</b></a> •
+  <a href="#-contact-information"><b>Connect</b></a>
 </p>
 
 </div>
@@ -37,19 +37,29 @@
 
 ## 👨‍💻 About Me
 
-I am a **Bachelor of Computer Science (Computer Networks and Security)** undergraduate at **Universiti Teknologi Malaysia (UTM)**, building a strong technical foundation across programming, digital/discrete logic, and information security.
+I am a **Bachelor of Computer Science (Computer Networks and Security)** undergraduate at **Universiti Teknologi Malaysia (UTM)**, focused on writing structured, reliable code and building practical security & privacy tools.
 
-- 🎓 **Academic Program:** Bachelor of Computer Science (Computer Networks and Security) at UTM
-- 💡 **Core Strengths:** Writing structured, standard-compliant code, breaking down edge cases, and turning concepts into working tools
-- 🎯 **Career Goal:** Grow into a cybersecurity and network security engineer who builds secure, reliable, and privacy-respecting systems
+- 🎓 **Degree:** B.Sc. Computer Science (Computer Networks & Security) — **UTM**
+- 🧠 **Approach:** Clear logic, edge-case testing, and readable, modular implementation
+- 🎯 **Direction:** Network defense, applied cryptography fundamentals, and secure software engineering
 
 > *"Strong security starts with clear fundamentals, clean logic, and careful attention to edge cases."*
+
+<details>
+<summary><b>✨ Expandable Snapshot: How I Build & Learn</b></summary>
+<br />
+
+- **Algorithmic & Systems Practice:** Implementing structured logic, loop/input validation, and modular components in C++, Java, and Python.
+- **Security-First Mindsets:** Exploring entropy evaluation, text obfuscation, and client-side privacy trade-offs through hands-on builds.
+- **Continuous Iteration:** Shipping working tools to GitHub, documenting architecture clearly, and refining UI/UX across releases.
+
+</details>
 
 ---
 
 ## 🛠 Technical Skills
 
-### Core Languages & Web Stack
+### Languages & Web Foundations
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,js&theme=dark" alt="Programming Languages" />
 </div>
@@ -65,40 +75,61 @@ I am a **Bachelor of Computer Science (Computer Networks and Security)** undergr
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
 </p>
 
-### Developer Tools & Platforms
+### Tooling, OS & Core CS Pillars
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,ubuntu&theme=dark" alt="Tools and OS" />
 </div>
 
-- **Academic & Technical Areas:** Data Structures, Object-Oriented Programming (OOP), Discrete Mathematics, Computer Networks & Security, Digital Logic Design
+<br />
 
----
-
-## 🔬 Research Interests
-
-| Area | Focus & Exploration |
+| Category | Core Competencies |
 | :--- | :--- |
-| **Password & Auth Security** | Evaluating password entropy, common weak-pattern risks, and breach-awareness utilities |
-| **Network & System Defense** | Understanding network protocols, secure communication practices, and defensive fundamentals |
-| **Safe & Clean Implementation** | Designing predictable software behavior, input validation, and clear modular architecture |
+| **Systems & Programming** | C++, Java, Python, Data Structures, Object-Oriented Programming (OOP) |
+| **Security & Theory** | Computer Networks & Security, Discrete Mathematics, Digital Logic Design |
+| **Developer Environment** | Linux / Ubuntu, Git & GitHub, VS Code, Static Web Deployment |
 
 ---
 
 ## 🚀 Featured Projects
 
+### 1. 🔐 CipherChat — Client-Side Private Message Encoder
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <p>
+        A zero-dependency browser web app that encodes and decodes messages locally using a configurable <b>Caesar Cipher (shifts 1–25)</b> paired with an optional <b>Unicode-safe Base64 stealth layer</b> for emojis, spaces, and special characters.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/GitHub%20Pages-Live-238636?style=flat-square&logo=githubpages&logoColor=white" alt="Live Demo" />
+      </p>
+      <p>
+        <a href="https://nagamithiran02.github.io/cipher-chat/"><b>🌐 Live Demo →</b></a> &nbsp;|&nbsp;
+        <a href="https://github.com/nagamithiran02/cipher-chat"><b>📂 Source Code →</b></a>
+      </p>
+    </td>
+    <td width="38%" valign="middle" align="center">
+      <b>100% Browser-Based</b><br />
+      <sub>No server storage • UTF-8 safe • 1-click copy</sub>
+    </td>
+  </tr>
+</table>
+
+### 2. 🛡️ Password Entropy Analyzer
 <table>
   <tr>
     <td width="58%" valign="top">
-      <h3>🔐 Password Entropy Analyzer</h3>
       <p>
-        A modular <b>Python</b> and <b>Streamlit</b> web application designed to analyze password strength, entropy metrics, and breach-related patterns through an interactive interface.
+        A modular <b>Python</b> tool for evaluating password unpredictability via Shannon entropy, detecting common/weak patterns, and generating stronger credentials.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/Security-Entropy%20%26%20Heuristics-0284C7?style=flat-square" alt="Security" />
       </p>
       <p>
-        <a href="https://github.com/nagamithiran02/password-entropy-analyzer"><b>🔗 Explore Repository →</b></a>
+        <a href="https://github.com/nagamithiran02/password-entropy-analyzer"><b>📂 Explore Repository →</b></a>
       </p>
     </td>
     <td width="42%" valign="middle" align="center">
@@ -108,6 +139,16 @@ I am a **Bachelor of Computer Science (Computer Networks and Security)** undergr
     </td>
   </tr>
 </table>
+
+---
+
+## 🔬 Research Interests
+
+| Focus Area | What I'm Exploring |
+| :--- | :--- |
+| **Authentication & Credential Hygiene** | Password entropy modeling, pattern heuristics, and practical breach-awareness checks |
+| **Network & Protocol Security** | Core networking mechanics, secure transport principles, and defensive foundations |
+| **Resilient Software Engineering** | Input validation, predictable state handling, and clean separation of logic |
 
 ---
 
