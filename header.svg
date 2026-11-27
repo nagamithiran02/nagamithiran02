@@ -1,0 +1,65 @@
+<svg width="100%" height="210" viewBox="0 0 1200 210" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="210" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#070A10" />
+      <stop offset="55%" stop-color="#0D131F" />
+      <stop offset="100%" stop-color="#081C18" />
+    </linearGradient>
+
+    
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0" />
+      <stop offset="25%" stop-color="#10B981" stop-opacity="0.9" />
+      <stop offset="75%" stop-color="#34D399" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0" />
+    </linearGradient>
+
+    
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#1E293B" stroke-width="0.8" stroke-opacity="0.45" />
+    </pattern>
+  </defs>
+
+  
+  <rect width="1200" height="210" rx="14" fill="url(#bgGrad)" />
+  <rect width="1200" height="210" rx="14" fill="url(#grid)" />
+  <rect x="1" y="1" width="1198" height="208" rx="13" stroke="#1F2937" stroke-width="1.5" />
+
+  
+  <polygon points="880,0 1200,0 1200,210 790,210" fill="#10B981" fill-opacity="0.04" />
+  <polyline points="820,210 910,0" stroke="#10B981" stroke-width="1.2" stroke-opacity="0.35" />
+  <polyline points="850,210 940,0" stroke="#34D399" stroke-width="0.8" stroke-opacity="0.18" />
+
+  
+  <path d="M 24 44 L 24 22 L 56 22" stroke="#10B981" stroke-width="2.2" stroke-linecap="square" />
+  <path d="M 1176 166 L 1176 188 L 1144 188" stroke="#10B981" stroke-width="2.2" stroke-linecap="square" />
+
+  
+  <rect x="52" y="34" width="232" height="24" rx="4" fill="#064E3B" fill-opacity="0.55" stroke="#10B981" stroke-opacity="0.45" />
+  <circle cx="68" cy="46" r="4" fill="#10B981" />
+  <text x="82" y="50" fill="#A7F3D0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="600" letter-spacing="1.2">SEC-OPS // UTM CS</text>
+
+  
+  <text x="52" y="108" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.5">
+    Nagamithiran Ramis
+  </text>
+
+  
+  <text x="54" y="142" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="500">
+    B.Sc. Computer Science (Computer Networks &amp; Security) • Universiti Teknologi Malaysia
+  </text>
+
+  
+  <g transform="translate(1035, 105)">
+    <polygon points="0,-54 47,-27 47,27 0,54 -47,27 -47,-27" fill="#090D16" stroke="#10B981" stroke-width="1.6" stroke-opacity="0.75" />
+    <polygon points="0,-34 30,-17 30,17 0,34 -30,17 -30,-17" fill="none" stroke="#34D399" stroke-width="1" stroke-opacity="0.4" stroke-dasharray="4 3" />
+    <circle cx="0" cy="0" r="6" fill="#10B981" />
+    <line x1="0" y1="-54" x2="0" y2="-34" stroke="#10B981" stroke-width="1.2" />
+    <line x1="47" y1="27" x2="30" y2="17" stroke="#10B981" stroke-width="1.2" />
+    <line x1="-47" y1="27" x2="-30" y2="17" stroke="#10B981" stroke-width="1.2" />
+  </g>
+
+  
+  <rect x="0" y="207" width="1200" height="3" fill="url(#accentLine)" />
+</svg>
