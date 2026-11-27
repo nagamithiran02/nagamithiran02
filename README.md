@@ -1,9 +1,6 @@
 <div align="center">
 
-<div align="center">
-  <img src="./header.svg" width="100%" alt="Nagamithiran Ramis — Cybersecurity & Software Engineering" />
-</div>
-
+<img src="./header.svg" width="100%" alt="Nagamithiran Ramis — Cybersecurity & Software Engineering" />
 
 <br />
 
@@ -32,15 +29,6 @@
 </p>
 
 </div>
-
-
-<div align="center">
-
-<br />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284C7,50:38BDF8,100:4F46E5&height=3&section=header" width="100%" alt="Divider" />
 
 ---
 
@@ -135,7 +123,7 @@ I am a **Bachelor of Computer Science (Computer Networks and Security)** undergr
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Security-Entropy%20%26%20Heuristics-0284C7?style=flat-square" alt="Security" />
+        <img src="https://img.shields.io/badge/Security-Entropy%20%26%20Heuristics-064E3B?style=flat-square&logoColor=34D399" alt="Security" />
       </p>
       <p>
         <a href="https://github.com/nagamithiran02/password-entropy-analyzer"><b>📂 Explore Repository →</b></a>
@@ -165,12 +153,12 @@ I am a **Bachelor of Computer Science (Computer Networks and Security)** undergr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nagamithiran02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=22D3EE" alt="GitHub Stats Card" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagamithiran02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8" alt="Top Languages Card" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=nagamithiran02&show_icons=true&theme=github_dark&hide_border=true&bg_color=090D16&title_color=10B981&icon_color=34D399&text_color=D1D5DB" alt="GitHub Stats Card" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagamithiran02&layout=compact&theme=github_dark&hide_border=true&bg_color=090D16&title_color=10B981&text_color=D1D5DB" alt="Top Languages Card" height="170" />
 
 <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagamithiran02&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" alt="GitHub Streak Card" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagamithiran02&theme=github-dark-blue&hide_border=true&background=090D16&ring=10B981&fire=34D399&currStreakLabel=10B981&sideLabels=D1D5DB&dates=9CA3AF" alt="GitHub Streak Card" height="170" />
 
 </div>
 
