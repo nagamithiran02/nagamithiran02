@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,50:111827,100:064E3B&height=175&section=header&text=Nagamithiran%20Ramis&fontSize=40&fontColor=F9FAFB&fontAlignY=42&desc=B.Sc.%20Computer%20Science%20(Computer%20Networks%20%26%20Security)%20%E2%80%A2%20UTM&descAlignY=66&descColor=34D399" width="100%" alt="Nagamithiran Ramis Header" />
+<div align="center">
+  <img src="./header.svg" width="100%" alt="Nagamithiran Ramis — Cybersecurity & Software Engineering" />
+</div>
+
 
 <br />
 
