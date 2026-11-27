@@ -33,7 +33,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090D16,50:10B981,100:090D16&height=2&section=header" width="100%" alt="Divider" />
 
 <div align="center">
 
