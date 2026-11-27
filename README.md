@@ -220,5 +220,5 @@ I am a **Bachelor of Computer Science (Computer Networks and Security)** undergr
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:0284C7,100:0F172A&height=110&section=footer" width="100%" alt="Footer Wave" />
+  <img src="./footer.svg" width="100%" alt="Nagamithiran Ramis Footer" />
 </div>
