@@ -39,30 +39,6 @@
 
 <br />
 
-<!-- Animated Typing Headline -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1150&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+Secure+Systems+%26+Clean+Software;Computer+Networks+%26+Security+%40+Universiti+Teknologi+Malaysia;From+Low-Level+Logic+to+Interactive+Security+Tools" alt="Typing Headline" />
-</a>
-
-<br /><br />
-
-<!-- Identity & Focus Badges -->
-<img src="https://img.shields.io/badge/UTM-Computer%20Networks%20%26%20Security-0B1120?style=for-the-badge&logo=github&logoColor=38BDF8" alt="UTM" />
-<img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Applied%20Crypto-0F172A?style=for-the-badge&logo=shield&logoColor=22D3EE" alt="Focus" />
-<img src="https://img.shields.io/badge/Workflow-Linux%20%7C%20VS%20Code%20%7C%20Git-1E1B4B?style=for-the-badge&logo=linux&logoColor=A5B4FC" alt="Workflow" />
-
-<br /><br />
-
-<!-- Interactive Quick Navigation Bar -->
-<p>
-  <a href="#-about-me"><b>About</b></a> •
-  <a href="#-technical-skills"><b>Skills</b></a> •
-  <a href="#-featured-projects"><b>Featured Projects</b></a> •
-  <a href="#-research-interests"><b>Research</b></a> •
-  <a href="#-github-statistics"><b>Activity & Stats</b></a> •
-  <a href="#-contact-information"><b>Connect</b></a>
-</p>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284C7,50:38BDF8,100:4F46E5&height=3&section=header" width="100%" alt="Divider" />
